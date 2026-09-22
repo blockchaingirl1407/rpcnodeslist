@@ -3690,7 +3690,8 @@ const blockchains = [
       {
         "network": "Mainnet",
         "rpcUrls": [
-          "https://rpc.mainnet.chain.robinhood.com"
+          "https://rpc.mainnet.chain.robinhood.com",
+          "https://robinhood-mainnet.gateway.tatum.io"
         ],
         "chainId": "0x1237",
         "nativeCurrency": "ETH",
@@ -3699,7 +3700,8 @@ const blockchains = [
       {
         "network": "Testnet",
         "rpcUrls": [
-          "https://rpc.testnet.chain.robinhood.com"
+          "https://rpc.testnet.chain.robinhood.com",
+          "https://robinhood-testnet.gateway.tatum.io"
         ],
         "chainId": "0xB636",
         "nativeCurrency": "ETH",
